@@ -2,6 +2,8 @@
 
 Delete all lying items
 
+[Download](https://github.com/Frank-Mayer/autoDeleteItems/releases/latest)
+
 ## plugins/AutoDeleteItems/settings.json
 
 | Key | description | Default |
