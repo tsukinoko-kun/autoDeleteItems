@@ -1,0 +1,8 @@
+name: AutoDeleteItems
+version: ${project.version}
+main: de.kuerbisskraft.autodeleteitems.AutoDeleteItems
+api-version: 1.15
+prefix: del
+authors: [ Frank-Mayer ]
+description: Automatisch alle liegenden Items löschen
+website: https://kuerbisskraft.de
