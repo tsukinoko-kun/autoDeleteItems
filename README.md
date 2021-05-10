@@ -1,5 +1,8 @@
 # autoDeleteItems
 
+| :information_source: This is a commissioned work |
+|--------------------------------------------------|
+
 Delete all lying items
 
 [Download](https://github.com/Frank-Mayer/autoDeleteItems/releases/latest)
